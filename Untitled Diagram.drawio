@@ -1,82 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T09:51:42.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="KRuumg_hjap56O1W26iG" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T20:22:18.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="oTNrFELgre9sNA8z3R-a" version="15.1.1" type="github">
   <diagram id="hF1DCo-za6BDpXijDqXe" name="Page-1">
-    <mxGraphModel dx="1888" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-1" value="&lt;div&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;Show suitable contents according their ages by&lt;div&gt;&lt;span&gt;Identifying childeren voices&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="190" width="120" height="100" as="geometry" />
+        <mxCell id="qYQen40BbtpS6DdnJ-LU-4" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;Informing people from the latest discounts of some brands which he/she is interested.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="330" y="209" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-2" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;The interaction of disability persons by assistant shall be increased" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="60" y="190" width="120" height="100" as="geometry" />
+        <mxCell id="qYQen40BbtpS6DdnJ-LU-7" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To show ads that are relevant to the user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="370" y="405" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-4" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;Informing people from the latest discounts of some brands which he/she is interested according to his searches&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-5" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;Identifying people who have identical voices&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
-          <mxGeometry x="220" y="200" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-7" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;Interaction by third-party comanies for getting their Apis" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
-          <mxGeometry x="580" y="410" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-8" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;Creating specific social media for them and get advertisements&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
-          <mxGeometry x="220" y="390" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-31" value="" style="endArrow=classic;html=1;exitX=0.617;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="IBMI4tn_m0O9jDeK7wMh-5" source="qYQen40BbtpS6DdnJ-LU-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="289" as="sourcePoint" />
-            <mxPoint x="160" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qYQen40BbtpS6DdnJ-LU-32" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="qYQen40BbtpS6DdnJ-LU-31" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-1" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To make people use Google Assistant several times a day&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="IBMI4tn_m0O9jDeK7wMh-1" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To make people use Google Assistant several times a day&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="530" y="10" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-2" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;To make Google Assistant available on many devices" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="700" y="10" width="120" height="120" as="geometry" />
+        <mxCell id="IBMI4tn_m0O9jDeK7wMh-2" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;To make Google Assistant available on many devices" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="850" y="10" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-5" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To make Google Assistant enjoyable to use&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="IBMI4tn_m0O9jDeK7wMh-5" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To make Google Assistant enjoyable to use&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="100" y="10" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-8" value="" style="endArrow=classic;html=1;exitX=0.333;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qYQen40BbtpS6DdnJ-LU-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="190" as="sourcePoint" />
-            <mxPoint x="180" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-9" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IBMI4tn_m0O9jDeK7wMh-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.89;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qYQen40BbtpS6DdnJ-LU-5" target="IBMI4tn_m0O9jDeK7wMh-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="389.96000000000004" y="200" as="sourcePoint" />
-            <mxPoint x="340" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-13" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IBMI4tn_m0O9jDeK7wMh-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-15" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To Provide more services in practical in real-world&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="IBMI4tn_m0O9jDeK7wMh-15" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To provide more services in practical in real-world&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="330" y="10" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="IBMI4tn_m0O9jDeK7wMh-15">
+        <mxCell id="IBMI4tn_m0O9jDeK7wMh-16" value="" style="endArrow=classic;html=1;exitX=0.371;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="qYQen40BbtpS6DdnJ-LU-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413.2" y="190" as="sourcePoint" />
-            <mxPoint x="350.00000000000017" y="119.39999999999998" as="targetPoint" />
+            <mxPoint x="412" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-17" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IBMI4tn_m0O9jDeK7wMh-16">
+        <mxCell id="IBMI4tn_m0O9jDeK7wMh-17" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="IBMI4tn_m0O9jDeK7wMh-16" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qYQen40BbtpS6DdnJ-LU-8" target="qYQen40BbtpS6DdnJ-LU-5">
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-1" value="&lt;div&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;The services in googel home shall be improved" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="209" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-2" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.407;exitY=-0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KIbq9x-NmEHwbfyPO5Z1-1" target="IBMI4tn_m0O9jDeK7wMh-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283.2" y="380.6" as="sourcePoint" />
-            <mxPoint x="220.00000000000017" y="310" as="targetPoint" />
+            <mxPoint x="130" y="200" as="sourcePoint" />
+            <mxPoint x="10" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBMI4tn_m0O9jDeK7wMh-22" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="IBMI4tn_m0O9jDeK7wMh-21">
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-3" value="partof" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KIbq9x-NmEHwbfyPO5Z1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-4" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To have a good microphone in Google Home" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-5" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KIbq9x-NmEHwbfyPO5Z1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="390" as="sourcePoint" />
+            <mxPoint x="128" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-6" value="supports" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KIbq9x-NmEHwbfyPO5Z1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-8" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To cooperate with vendors that offer apps and services" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="700" y="204" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.446;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qYQen40BbtpS6DdnJ-LU-7" target="qYQen40BbtpS6DdnJ-LU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.04" y="400" as="sourcePoint" />
+            <mxPoint x="422" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-10" value="supports" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KIbq9x-NmEHwbfyPO5Z1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-16" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;Check the consumption and Use Push notification&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-17" value="" style="endArrow=classic;html=1;entryX=0.333;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="200" as="sourcePoint" />
+            <mxPoint x="589.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-18" value="supports" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KIbq9x-NmEHwbfyPO5Z1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-19" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;Improve IT infrustrcture" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="860" y="200" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-20" value="" style="endArrow=classic;html=1;entryX=0.333;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910.5" y="199" as="sourcePoint" />
+            <mxPoint x="910" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-21" value="supports" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KIbq9x-NmEHwbfyPO5Z1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-22" value="&lt;b&gt;Goal:&lt;br&gt;&lt;/b&gt;&lt;span&gt;To ensure that Google Assistant can interact with many third party apps and services&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="690" y="10" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-23" value="" style="endArrow=classic;html=1;entryX=0.417;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.364;exitY=-0.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KIbq9x-NmEHwbfyPO5Z1-8" target="KIbq9x-NmEHwbfyPO5Z1-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="190" as="sourcePoint" />
+            <mxPoint x="740" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIbq9x-NmEHwbfyPO5Z1-24" value="supports" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KIbq9x-NmEHwbfyPO5Z1-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
