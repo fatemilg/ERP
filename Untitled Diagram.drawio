@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T10:10:33.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="VM3FRah7g88R9ed3O-iZ" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T10:50:19.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="yS6ZWhg_pxgq4i1pJPp3" version="15.1.2" type="github">
   <diagram id="hF1DCo-za6BDpXijDqXe" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="UOg6kvVTi9lM9-NH_RH6-1" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;Informing people from the latest discounts of some brands by questions have been asked by them&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="UOg6kvVTi9lM9-NH_RH6-1" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;&lt;div&gt;Informing people from the latest discounts of some brands by questions will be asked by them&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="260" y="199" width="140" height="91" as="geometry" />
         </mxCell>
         <mxCell id="UOg6kvVTi9lM9-NH_RH6-2" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;&lt;div&gt;To show ads that are relevant to the user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
@@ -194,7 +194,7 @@
             <mxPoint x="5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k02TBx-nNFQsuxZOjiUl-13" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;Using updared technologies" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-13" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;By end of current year,&amp;nbsp; 85% increase in customer satisfaction for applicants of google home" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="20" y="570" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="k02TBx-nNFQsuxZOjiUl-14" value="quantifies" style="endArrow=none;html=1;exitX=0.818;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k02TBx-nNFQsuxZOjiUl-13">
@@ -238,7 +238,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k02TBx-nNFQsuxZOjiUl-26" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;By January 1, 2024, 95% on-time pizza delivery. " style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-26" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;By January 1, 2024, 100% on-time discounts" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="k02TBx-nNFQsuxZOjiUl-27" value="" style="endArrow=none;html=1;entryX=0.934;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.902;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k02TBx-nNFQsuxZOjiUl-26" target="UOg6kvVTi9lM9-NH_RH6-1">
