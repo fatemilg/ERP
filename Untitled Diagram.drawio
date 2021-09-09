@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T10:50:19.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="yS6ZWhg_pxgq4i1pJPp3" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T14:10:33.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="bDsqPZHR6kSwWQQeraq6" version="15.1.2" type="github">
   <diagram id="hF1DCo-za6BDpXijDqXe" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,10 +27,10 @@
         <mxCell id="UOg6kvVTi9lM9-NH_RH6-7" value="&lt;div&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;The services in googel home shall be improved" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5" y="199" width="115" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="UOg6kvVTi9lM9-NH_RH6-8" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To have a good microphone in Google Home" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+        <mxCell id="UOg6kvVTi9lM9-NH_RH6-8" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To have a better microphone in Google Home than competitors" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="5" y="390" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="UOg6kvVTi9lM9-NH_RH6-9" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To cooperate with vendors that offer apps and services" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+        <mxCell id="UOg6kvVTi9lM9-NH_RH6-9" value="&lt;b&gt;Mean:&lt;br&gt;&lt;/b&gt;To ensure that Google Assistant can interact with many third party apps and services" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="560" y="204" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UOg6kvVTi9lM9-NH_RH6-10" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To give answers to queries that are relevant to the user" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
@@ -39,7 +39,7 @@
         <mxCell id="UOg6kvVTi9lM9-NH_RH6-11" value="&lt;b&gt;Mean:&lt;/b&gt;&lt;br&gt;To collect a lot of data about users of Google Assistant and analyze their devices" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="700" y="204" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UOg6kvVTi9lM9-NH_RH6-12" value="&lt;b&gt;Goal:&lt;br&gt;&lt;/b&gt;&lt;span&gt;To ensure that Google Assistant can interact with many third party apps and services&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="UOg6kvVTi9lM9-NH_RH6-12" value="&lt;b&gt;Goal:&lt;/b&gt;&lt;br&gt;To cooperate with vendors that offer apps and services" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="550" y="10" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UOg6kvVTi9lM9-NH_RH6-13" value="&lt;b&gt;Influencer:&lt;br&gt;&lt;/b&gt;&lt;span&gt;People nowadays regularly use many apps and services on their smartphones&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k02TBx-nNFQsuxZOjiUl-22" value="weakness&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOg6kvVTi9lM9-NH_RH6-14">
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-22" value="opportunity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UOg6kvVTi9lM9-NH_RH6-14">
           <mxGeometry x="-0.8709" y="-2" relative="1" as="geometry">
             <mxPoint x="-5" y="23" as="offset" />
           </mxGeometry>
@@ -146,7 +146,7 @@
         <mxCell id="k02TBx-nNFQsuxZOjiUl-2" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;Google Assistant shall be available on more than 600 million devices untill 2024" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="710" y="570" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="k02TBx-nNFQsuxZOjiUl-3" value="&lt;div&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;improved&amp;nbsp; language understanding" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-3" value="&lt;div&gt;&lt;b&gt;Goal&lt;/b&gt;:&lt;/div&gt;&amp;nbsp;language understanding shall be improved" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="130" y="199" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="k02TBx-nNFQsuxZOjiUl-4" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;speak naturally to Google Assistant with accuracy 100% in any language until 2023" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
@@ -238,7 +238,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k02TBx-nNFQsuxZOjiUl-26" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;By January 1, 2024, 100% on-time discounts" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-26" value="&lt;b&gt;Objective:&lt;/b&gt;&lt;br&gt;By January 1, 2023, users of google assistance shall be increased 20%" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="k02TBx-nNFQsuxZOjiUl-27" value="" style="endArrow=none;html=1;entryX=0.934;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.902;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k02TBx-nNFQsuxZOjiUl-26" target="UOg6kvVTi9lM9-NH_RH6-1">
@@ -283,6 +283,67 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="732.8" y="10" as="sourcePoint" />
             <mxPoint x="630" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-35" value="&lt;b&gt;Influencer:&lt;br&gt;&lt;/b&gt;Apple offers Siri, a competitor to Google Assistant" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-220" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-36" value="&lt;b&gt;Influencer:&lt;br&gt;&lt;/b&gt;Amazon offers Echo, a competitor to Google Assistant" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-38" value="Threath" style="endArrow=none;html=1;entryX=-0.027;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="k02TBx-nNFQsuxZOjiUl-36" target="k02TBx-nNFQsuxZOjiUl-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-180" as="sourcePoint" />
+            <mxPoint x="380" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-39" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.997;exitY=0.817;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k02TBx-nNFQsuxZOjiUl-35" target="k02TBx-nNFQsuxZOjiUl-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-90" as="sourcePoint" />
+            <mxPoint x="220" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-40" value="Threath" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k02TBx-nNFQsuxZOjiUl-39">
+          <mxGeometry x="-0.3356" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-41" value="Opportunity" style="endArrow=none;html=1;entryX=0.125;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UOg6kvVTi9lM9-NH_RH6-6" target="k02TBx-nNFQsuxZOjiUl-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="-40" as="sourcePoint" />
+            <mxPoint x="220" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-42" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UOg6kvVTi9lM9-NH_RH6-6" target="k02TBx-nNFQsuxZOjiUl-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="-30" as="sourcePoint" />
+            <mxPoint x="90" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-43" value="Opportunity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k02TBx-nNFQsuxZOjiUl-42">
+          <mxGeometry x="0.2246" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-44" value="&lt;b&gt;Influencer:&lt;br&gt;&lt;/b&gt;advent new generation of technology" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-45" value="Threath" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="8" as="sourcePoint" />
+            <mxPoint x="740" y="-119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k02TBx-nNFQsuxZOjiUl-47" value="Opportunity" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="k02TBx-nNFQsuxZOjiUl-44">
+          <mxGeometry x="0.9165" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="199" as="sourcePoint" />
+            <mxPoint x="730" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="60" />
+              <mxPoint x="10" y="-360" />
+              <mxPoint x="730" y="-360" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
