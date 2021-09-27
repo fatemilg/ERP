@@ -1,1 +1,263 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T17:45:49.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.3.0" etag="l_qknJwuHOTKPWq-0KxQ" type="github"><diagram id="8-jtVFk_-QxQIClZ7zO8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-27T20:55:51.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="n67VrdQ_J9DqKL45H9s7" version="15.3.0" type="github">
+  <diagram id="8-jtVFk_-QxQIClZ7zO8" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="INXHp-ntiENusmV_IVh7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-1" target="INXHp-ntiENusmV_IVh7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-1" value="items purchased" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="INXHp-ntiENusmV_IVh7-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="264" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-2" target="INXHp-ntiENusmV_IVh7-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-2" target="INXHp-ntiENusmV_IVh7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-2" value="And join" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="455" y="239" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-13" target="INXHp-ntiENusmV_IVh7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-13" value="Inspect content of pckage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-22" target="INXHp-ntiENusmV_IVh7-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-22" value="Tablet inspected" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-23" value="Charger inspected" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-24" value="Headset inspected" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-26" value="And split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1660" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-30" target="INXHp-ntiENusmV_IVh7-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="2000" />
+              <mxPoint x="505" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-30" value="put into a plastic box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-32" value="customer delivered" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="2030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-34" target="INXHp-ntiENusmV_IVh7-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-34" value="make decision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-36" target="INXHp-ntiENusmV_IVh7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-36" target="INXHp-ntiENusmV_IVh7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-36" target="INXHp-ntiENusmV_IVh7-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="745.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-36" value="Or split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="265" y="720" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-38" target="INXHp-ntiENusmV_IVh7-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="880" />
+              <mxPoint x="150" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-38" value="&amp;nbsp;visible damage is detected" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-39" value="&amp;nbsp;visible damage &lt;br&gt;is Not detected" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-43" target="INXHp-ntiENusmV_IVh7-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-43" value="&lt;div&gt;make decision&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0;entryDx=0;entryDy=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-45" target="INXHp-ntiENusmV_IVh7-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="1050" as="targetPoint" />
+            <mxPoint x="130" y="1045" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="65" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-45" target="INXHp-ntiENusmV_IVh7-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-45" value="Or split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1020" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-49" target="INXHp-ntiENusmV_IVh7-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="1230" />
+              <mxPoint x="75" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-49" value="repair decided" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-50" target="INXHp-ntiENusmV_IVh7-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-50" value="abort decided" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-56" target="INXHp-ntiENusmV_IVh7-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="1360" />
+              <mxPoint x="10" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-56" value="&lt;div&gt;&amp;nbsp;repair the damage immediately&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-58" value="&lt;div&gt;entire process stops&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-60" target="INXHp-ntiENusmV_IVh7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-60" value="junior inspector" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-62" target="INXHp-ntiENusmV_IVh7-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-62" value="senior inspector" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="14" y="820" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-64" target="INXHp-ntiENusmV_IVh7-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="590" />
+              <mxPoint x="280" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-64" value="Or split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="255" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-71" target="INXHp-ntiENusmV_IVh7-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-71" value="Inspected softwate&lt;br&gt;installation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-73" target="INXHp-ntiENusmV_IVh7-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-73" value="&lt;div&gt;Check randomly by 3 applications&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-75" value="all worked well" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-76" target="INXHp-ntiENusmV_IVh7-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-76" value="all or one &lt;br&gt;Not worked well" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-77" target="INXHp-ntiENusmV_IVh7-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1110" />
+              <mxPoint x="440" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-77" target="INXHp-ntiENusmV_IVh7-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-77" value="Or split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1020" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-82" target="INXHp-ntiENusmV_IVh7-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-82" value="&lt;div&gt;reinstall and install the app&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="INXHp-ntiENusmV_IVh7-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="1620" as="sourcePoint" />
+            <mxPoint x="430" y="1655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="INXHp-ntiENusmV_IVh7-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="1620" as="sourcePoint" />
+            <mxPoint x="650" y="1655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-86" value="Or split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1590" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-93" target="INXHp-ntiENusmV_IVh7-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-93" value="Not Worked" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-96" target="INXHp-ntiENusmV_IVh7-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-96" value="&lt;div&gt;try &amp;lt;5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-97" value="&lt;div&gt;try =5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-100" target="INXHp-ntiENusmV_IVh7-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INXHp-ntiENusmV_IVh7-100" target="INXHp-ntiENusmV_IVh7-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-100" value="Or split" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="INXHp-ntiENusmV_IVh7-102" value="Worked well" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
